@@ -1,0 +1,33 @@
+.dashboard {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .user-form {
+    margin: 20px 0;
+  }
+  
+  .input-field {
+    margin: 10px 0;
+  }
+  
+  .input-field label {
+    margin-right: 10px;
+  }
+  
+  .user-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .user-list th, .user-list td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .user-list th {
+    background-color: #f4f4f4;
+  }
+  
